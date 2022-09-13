@@ -18,25 +18,25 @@ We found two easy ways:
 
 **Option 1: Create a repository within Atom and pushing it to your Github repository.**
 
-![Creating a repository in Atom](/Users/franklintan/github/Github-Tutorial/images/CreateRepo.png)
+![Creating a repository in Atom](images/CreateRepo.png)
 
 **Option 2: Create a repository within Github and cloning it into Atom.**
 
 :one:	Create a Github repository
 
-![Creating a repository in Github](/Users/franklintan/github/Github-Tutorial/images/Github_repo.png)
+![Creating a repository in Github](/images/Github_repo.png)
 
 :two:	Copy either HTTPS or SSH link (HTTPS and SSH are two methods of authentication used to connect to a Git repo. HTTPS is the default. If you're interested in learning more about the difference. Check out [Should You Use HTTPS or SSH For Git](https://www.howtogeek.com/devops/should-you-use-https-or-ssh-for-git/) by Anthony Heddings.
 
-![Cloning](/Users/franklintan/github/Github-Tutorial/images/cloning.png)
+![Cloning](/images/cloning.png)
 
 :three:	Go to Atom and do Cmd + Shift + P or Ctrl + Shift + P. This opens the search bar. Type "Github Clone" and click on the result: Github Clone
 
-![Github Clone](/Users/franklintan/github/Github-Tutorial/images/Github_clone.png)
+![Github Clone](/images/Github_clone.png)
 
 :four:	Paste the link from step 2 into the clone from field and hit clone. You're all set! :grinning:
 
-![Paste](/Users/franklintan/github/Github-Tutorial/images/PastedCloneLink.png)
+![Paste](/images/PastedCloneLink.png)
 
 ## Other Useful Resources:
 - [7 min - Learn how to create a GitHub repo, clone, and commit with Atom](https://www.youtube.com/watch?v=6HsZMl-qV5k)
